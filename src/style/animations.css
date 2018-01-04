@@ -1,0 +1,2 @@
+.slideLeft { transform: translateX(0)!important; }
+.slideRight { transform: translateX(100%) }
